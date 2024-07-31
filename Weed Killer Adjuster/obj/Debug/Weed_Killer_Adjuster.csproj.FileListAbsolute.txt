@@ -1,0 +1,11 @@
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\bin\Weed_Killer_Adjuster.deps.json
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\bin\Weed_Killer_Adjuster.dll
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\bin\Weed_Killer_Adjuster.pdb
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.csproj.AssemblyReference.cache
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\PluginInfo.cs
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.AssemblyInfoInputs.cache
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.AssemblyInfo.cs
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.csproj.CoreCompileInputs.cache
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.dll
+C:\Users\Sabyn\source\repos\WeedKillerAdjuster-main\Weed Killer Adjuster\obj\Debug\Weed_Killer_Adjuster.pdb
